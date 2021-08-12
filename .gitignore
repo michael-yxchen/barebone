@@ -1,2 +1,3 @@
 *.o
 arm-pl011/build
+cmake-test/build
